@@ -1,6 +1,6 @@
 'use strict';
 
-var RFB = require('rfb');
+var RFB = require('@icebob/rfb');
 var io = require('socket.io');
 var PNG = require('pngjs').PNG;
 var express = require('express');
